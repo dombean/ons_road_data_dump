@@ -7,7 +7,7 @@ Also locally available in `./docs/index.html`.
 ## Changelog
 
 ### Version 1.5.2
-* Fixed RAM Issue: disk.frame implementation.
+* Fixed RAM Issue: disk.frame implementation and split request into chunk specified by user.
 
 ### Version 1.5.1
 
